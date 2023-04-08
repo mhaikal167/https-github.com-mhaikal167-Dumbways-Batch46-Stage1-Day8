@@ -26,7 +26,7 @@ const testimonialData = [
     {
         author:"Steve Jobs",
         comment:"Website ini akan membuat pasar kita menurun ,aku tidak suka itu",
-        source:"https://voffice.co.id/jakarta-virtual-office/business-tips/wp-content/uploads/2018/11/biografi-steve-jobs-735x400.jpg",
+        source:"https://assets-a1.kompasiana.com/statics/crawl/557458480423bd7a2e8b4567.jpeg",
         rating:3
     },
     {
